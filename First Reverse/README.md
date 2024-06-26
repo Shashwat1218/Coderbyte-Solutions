@@ -1,5 +1,3 @@
-# README
-
 ## Question Title: First Reverse
 
 ### Description
